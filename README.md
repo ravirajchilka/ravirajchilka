@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<div class="github-card" data-user="lepture"></div>
+<script src="https://cdn.jsdelivr.net/gh/lepture/github-cards@latest/jsdelivr/widget.js"></script>
 <!--
 **ravirajchilka/ravirajchilka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
