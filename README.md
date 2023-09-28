@@ -3,5 +3,5 @@ I am an <b>Electronics Engineer</b> who worked for Electronics manufacturing com
 
 I have graduated from <b>CUNY CCNY</b> with M.E.(E.E.) I also have a strong will to pursue an Associate of Science degree in <b>Mechanical Engineering</b> 🚜⚙️ and transfer to a 4 year engineering degree. You can find machine 🔩 drawings in CAD repository
 
-At this moment I am preparing to apply to <b>Georgia Tech</b> online M.S.(C.S) program specializing in <b>High Performance Computing Systems </b> 
+At this moment I am preparing to apply to <b>Georgia Tech</b> M.S.(C.S) program specializing in <b>High Performance Computing Systems </b> 
 
