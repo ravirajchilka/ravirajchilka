@@ -3,4 +3,3 @@ I am an <b>Electronics Engineer</b>, worked for Electronics manufacturing compan
 
 I have graduated from <b>CUNY CCNY</b> with M.E.(E.E.) I also have a strong will to pursue an Associate degree in <b>Mechanical Engineering</b> 🚜⚙️ and transfer to a 4 year engineering degree. You can find my machine parts 🔩 drawing examples in CAD repository
 
-At this moment I am busy in building a complex mechanical system using NVIDIA GPU and Solar panels but won't be sharing any information on this Github as its confidential...🤠
