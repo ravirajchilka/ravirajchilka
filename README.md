@@ -1,5 +1,11 @@
 ### Hi there 👋 Welcome to my Github page !
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ravirajchilka)](https://github.com/ravirajchilka/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravirajchilka&layout=compact)
+
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravirajchilka&theme=vue)
+
+
+
+
 
 
