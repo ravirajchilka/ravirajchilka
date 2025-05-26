@@ -1,13 +1,25 @@
-### Hi there 👋 Welcome to my Github page !
+### Hi there 👋 Welcome to my GitHub page!
+
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravirajchilka&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ravirajchilka&layout=compact) 
+---
 
+## 🧠 Research Papers
 
+Here are some of my research papers available on OSF.io:
 
+- **The Two Stages of the AI Revolution: Digital Intelligence to Physical Embodiment — and Why There’s No Third Stage**  
+  📄 [Read on OSF](https://doi.org/10.17605/OSF.IO/ZKJUY)  
+  📥 [Direct PDF](https://osf.io/vfxej)
 
+- **Layers of Information Dynamics: A Social Model of Information Concealment**  
+  📄 [Read on OSF](https://doi.org/10.17605/OSF.IO/RKEAQ)  
+  📥 [Direct PDF](https://osf.io/trhyp)
 
+- **The Impact of Workforce Skill Distribution on the Trajectory of Artificial Intelligence: A 2045 Perspective**  
+  📄 [Read on OSF](https://doi.org/10.17605/OSF.IO/ZP3S9)  
+  📥 [Direct PDF](https://osf.io/ztx9w)
 
+---
 
-
-
+Thanks for stopping by! Feel free to explore my projects and research.
