@@ -26,6 +26,5 @@ Here are some of my research papers available on OSF.io:
 
 - 📘 **ORCID iD**: [https://orcid.org/0009-0002-8166-0002](https://orcid.org/0009-0002-8166-0002)  
  
-Feel free to explore my papers.
 
 Thanks for stopping by!
