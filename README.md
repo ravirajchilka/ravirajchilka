@@ -22,4 +22,10 @@ Here are some of my research papers available on OSF.io:
 
 ---
 
-Thanks for stopping by! Feel free to explore my projects and research.
+## 🧬 Academic Identity
+
+- 📘 **ORCID iD**: [https://orcid.org/0009-0002-8166-0002](https://orcid.org/0009-0002-8166-0002)  
+ 
+Feel free to explore my research, inventions, and open-source projects.
+
+Thanks for stopping by!
