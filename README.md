@@ -12,10 +12,6 @@ Here are some of my research papers available on OSF.io:
   📄 [Read on OSF](https://doi.org/10.17605/OSF.IO/ZKJUY)  
   📥 [Direct PDF](https://osf.io/bd8tf)
 
-- **Layers of Information Dynamics: A Social Model of Information Concealment**  
-  📄 [Read on OSF](https://doi.org/10.17605/OSF.IO/RKEAQ)  
-  📥 [Direct PDF](https://osf.io/4962s)
-
 - **The Impact of Workforce Skill Distribution on the Trajectory of Artificial Intelligence: A 2045 Perspective**  
   📄 [Read on OSF](https://doi.org/10.17605/OSF.IO/ZP3S9)  
   📥 [Direct PDF](https://osf.io/xew4a)
@@ -26,5 +22,6 @@ Here are some of my research papers available on OSF.io:
 
 - 📘 **ORCID iD**: [https://orcid.org/0009-0002-8166-0002](https://orcid.org/0009-0002-8166-0002)  
  
+
 
 Thanks for stopping by!
