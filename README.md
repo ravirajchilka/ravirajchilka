@@ -4,9 +4,9 @@
 
 ---
 
-## 🧠 Research Papers
+## 🧠 Hypothesis Papers
 
-Here are some of my research papers available on OSF.io:
+Here are my hypotheses available on OSF.io:
 
 - **The Two Stages of the AI Revolution: Digital Intelligence to Physical Embodiment — and Why There’s No Third Stage**  
   📄 [Read on OSF](https://doi.org/10.17605/OSF.IO/ZKJUY)  
