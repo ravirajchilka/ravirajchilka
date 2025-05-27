@@ -16,6 +16,10 @@ Here are my hypotheses available on OSF.io:
   📄 [Read on OSF](https://doi.org/10.17605/OSF.IO/ZP3S9)  
   📥 [Direct PDF](https://osf.io/xew4a)
 
+- **True AGI Demands a Physical Presence**  
+  📄 [Read on OSF](https://osf.io/3dv98/)  
+  📥 [Direct PDF](https://osf.io/jrfns)
+
 ---
 
 ## 🧬 Academic Identity
