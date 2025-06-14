@@ -1,15 +1,13 @@
 ### Hi there 👋 Welcome to my GitHub page!
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravirajchilka&theme=default)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravirajchilka&theme=default) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravirajchilka&layout=compact)
+
 
 ---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravirajchilka&layout=compact)
 
 
-## 🧠 Hypothesis Papers
-
-Here are my hypotheses available on OSF.io:
+Here are my articles available on OSF.io:
 
 - **The Two Stages of the AI Revolution: Digital Intelligence to Physical Embodiment — and Why There’s No Third Stage**  
   📄 [Read on OSF](https://doi.org/10.17605/OSF.IO/ZKJUY)  
