@@ -4,6 +4,9 @@
 
 ---
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravirajchilka&layout=compact)
+
+
 ## 🧠 Hypothesis Papers
 
 Here are my hypotheses available on OSF.io:
