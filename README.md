@@ -29,4 +29,3 @@ Here are my articles available on OSF.io:
  
 
 
-Thanks for stopping by!
