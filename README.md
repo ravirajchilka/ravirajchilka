@@ -1,6 +1,6 @@
-### Hi there 👋 Welcome to my GitHub page!
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravirajchilka&layout=compact&card_width=500&langs_count=10&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravirajchilka&layout=compact&card_width=500&langs_count=10&hide_border=true)
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ravirajchilka&theme=default) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ravirajchilka&layout=compact)
 
 
 ---
